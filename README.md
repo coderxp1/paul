@@ -1,4 +1,4 @@
-# Paul Hartmann — Portfolio
+# Paul Hartmann | Portfolio
 
 Static multi-page portfolio for [paulhartmann.dev](https://paulhartmann.dev), built with HTML, CSS and vanilla JavaScript.
 
